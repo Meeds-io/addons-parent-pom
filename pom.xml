@@ -26,7 +26,7 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
   </parent>
   <groupId>org.exoplatform.addons</groupId>
   <artifactId>addons-parent-pom</artifactId>
-  <version>12-SNAPSHOT</version>
+  <version>13-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>eXo AddOns Parent POM</name>
   <description>Maven Parent POM for eXo AddOns projects</description>
