@@ -21,12 +21,12 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
   <parent>
     <artifactId>maven-parent-pom</artifactId>
     <groupId>org.exoplatform</groupId>
-    <version>25-M06</version>
+    <version>26-meed-M03</version>
     <relativePath />
   </parent>
   <groupId>org.exoplatform.addons</groupId>
   <artifactId>addons-parent-pom</artifactId>
-  <version>16-meed-SNAPSHOT</version>
+  <version>17-meed-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>eXo AddOns Parent POM</name>
   <description>Maven Parent POM for eXo AddOns projects</description>
