@@ -20,25 +20,25 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <artifactId>maven-parent-pom</artifactId>
-    <groupId>org.exoplatform</groupId>
-    <version>27-M03</version>
+    <groupId>io.meeds</groupId>
+    <version>27-M04</version>
     <relativePath />
   </parent>
-  <groupId>org.exoplatform.addons</groupId>
+  <groupId>io.meeds.addons</groupId>
   <artifactId>addons-parent-pom</artifactId>
   <version>18-exo-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>eXo AddOns Parent POM</name>
+  <name>Meeds AddOns Parent POM</name>
   <description>Maven Parent POM for eXo AddOns projects</description>
   <scm>
-    <connection>scm:git:git://github.com/exo-addons/addons-parent-pom.git</connection>
-    <developerConnection>scm:git:git@github.com:exo-addons/addons-parent-pom.git</developerConnection>
+    <connection>scm:git:git://github.com/Meeds-io/addons-parent-pom.git</connection>
+    <developerConnection>scm:git:git@github.com:Meeds-io/addons-parent-pom.git</developerConnection>
     <tag>HEAD</tag>
-    <url>https://github.com/exo-addons/addons-parent-pom</url>
+    <url>https://github.com/Meeds-io/addons-parent-pom</url>
   </scm>
   <issueManagement>
     <system>github</system>
-    <url>https://github.com/exo-addons/addons-parent-pom/issues</url>
+    <url>https://github.com/Meeds-io/addons-parent-pom/issues</url>
   </issueManagement>
   <properties>
     <!-- **************************************** -->
@@ -49,6 +49,6 @@ Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <!-- Repositories URLs                        -->
     <!-- Using DAV for large artifacts - PAR-156  -->
     <!-- **************************************** -->
-    <exo.snapshots.repo.url>https://repository.exoplatform.org/content/repositories/exo-addons-snapshots</exo.snapshots.repo.url>
+    <exo.snapshots.repo.url>https://repository.exoplatform.org/content/repositories/meeds-snapshots</exo.snapshots.repo.url>
   </properties>
 </project>
